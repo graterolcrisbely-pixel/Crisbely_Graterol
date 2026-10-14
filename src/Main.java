@@ -9,7 +9,8 @@ public  class Main {
 
         }
 
-        System.out.println("Hola mundo " + suma);
+        System.out.println("Hola mundo:  " + suma);
+
     }
 }
 
